@@ -2,8 +2,7 @@
 <h3 align="center">Web Developer • Exploring Web3 & Blockchain</h3>
 
 <p align="center">
-I build for the web and I like understanding systems beyond the surface —  
-from frontend interactions to backend logic and decentralized tech.
+I build for the web and I like understanding systems beyond the surface from frontend interactions to backend logic and decentralized tech.
 </p>
 
 ---
@@ -11,7 +10,7 @@ from frontend interactions to backend logic and decentralized tech.
 ## 🌱 About Me
 - 💻 Focused on **Web Development** (Frontend → Backend)
 - 🌐 Exploring **Web3 & Blockchain fundamentals**
-- ⚙️ Interested in **real-time systems, APIs, and system design basics**
+- ⚙️ Interested in **real-time systems, APIs, and system design**
 - 🧠 Learning things from first principles
 
 ---
