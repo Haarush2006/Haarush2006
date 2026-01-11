@@ -12,7 +12,7 @@ from frontend interactions to backend logic and decentralized tech.
 - 💻 Focused on **Web Development** (Frontend → Backend)
 - 🌐 Exploring **Web3 & Blockchain fundamentals**
 - ⚙️ Interested in **real-time systems, APIs, and system design basics**
-- 🧠 I value clarity, correctness, and learning things from first principles
+- 🧠 Learning things from first principles
 
 ---
 
