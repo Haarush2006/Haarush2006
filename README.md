@@ -1,32 +1,39 @@
-<h1 align="center">Hi 👋, I'm Haarush Reddy</h1>
+<h1 align="center">Hi, I'm Haarush Reddy 👋</h1>
+<h3 align="center">Web Developer • Exploring Web3 & Blockchain</h3>
 
-- 🔭 I enjoy solving algorithmic problems  
-- 🌱 I’m currently learning **Web development**    
-
----
-
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.codechef.com/users/haarush9676" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/Haarush" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/Haarush26" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+<p align="center">
+I build for the web and I like understanding systems beyond the surface —  
+from frontend interactions to backend logic and decentralized tech.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🌱 About Me
+- 💻 Focused on **Web Development** (Frontend → Backend)
+- 🌐 Exploring **Web3 & Blockchain fundamentals**
+- ⚙️ Interested in **real-time systems, APIs, and system design basics**
+- 🧠 I value clarity, correctness, and learning things from first principles
+
+---
+
+## 🛠 Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
+
+---
+
+## 🔗 Web3 & Blockchain
+- 📘 Learning **how blockchains work internally**
+- 🧩 Understanding **smart contracts, transactions, and on-chain logic**
+- 🔐 Interested in **decentralization, trustless systems, and security basics**
+
+---
+
+## 🚀 What I’m Working On
+- Building **web apps end-to-end**
+- Learning **backend communication (REST, WebSockets)**
+- Gradually moving from **Web2 → Web3**
